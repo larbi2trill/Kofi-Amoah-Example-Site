@@ -1,4 +1,4 @@
-# Kofi Amoah Website - Test
+# Kofi Amoah Website - Test Run
 
 This is an example website for Kofi Amoah
 
