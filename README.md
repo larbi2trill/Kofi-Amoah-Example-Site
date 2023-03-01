@@ -9,6 +9,6 @@ This is an example website for Kofi Amoah
 
 |Platforms| Links  |
 |:--------||:------|
-|LinkedIn | https://www.linkedin.com/in/kofi-amoah-7b353119b/ |
+|LinkedIn | <https://www.linkedin.com/in/kofi-amoah-7b353119b/> |
 
 
