@@ -6,5 +6,8 @@ This is an example website for Kofi Amoah
 |:------|:------|
 |Kofi L. Amoah  | <kamoa001@odu.edu> |
 
-LinkedIn - <https://www.linkedin.com/in/kofi-amoah-7b353119b/![image](https://user-images.githubusercontent.com/124206934/222270399-11de9094-47e5-42ea-9bc6-d6188fd8dbb4.png)>
+|LinkedIn | 
+|:--------|
+| https://www.linkedin.com/in/kofi-amoah-7b353119b/![image](https://user-images.githubusercontent.com/124206934/222270808-03db0bae-a0ba-4f36-9e57-64635fcfb762.png) |
+
 
