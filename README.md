@@ -1,4 +1,4 @@
-# Kofi Amoah Example Site
+# Kofi Amoah Test Website
 
 This is an example website for Kofi Amoah
 
@@ -10,5 +10,6 @@ This is an example website for Kofi Amoah
 |Platforms| Links  |
 |:--------||:------|
 |LinkedIn | <https://www.linkedin.com/in/kofi-amoah-7b353119b/> |
+|Github   | 
 
 
